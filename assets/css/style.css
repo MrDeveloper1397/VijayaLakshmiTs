@@ -94,7 +94,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: #ff9818;
+  background: #fd961861;
   padding: 12px;
 }
 
@@ -160,7 +160,7 @@ h6 {
   font-weight: 700;
   color: #fff;
   white-space: nowrap;
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 .navbar a i,
@@ -174,7 +174,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgb(255 255 255 / 0%);
 }
 
 .navbar .dropdown ul {
